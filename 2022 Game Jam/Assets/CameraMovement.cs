@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
-    public float moveSpeed = 9f;
+    public float moveSpeed = 5f;
 
     public Rigidbody2D rb;
 
