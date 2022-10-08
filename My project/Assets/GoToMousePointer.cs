@@ -19,7 +19,11 @@ public class GoToMousePointer : MonoBehaviour
 
     void FixedUpdate()
     {      
+<<<<<<< HEAD:2022 Game Jam/Assets/GoToMousePointer.cs
         transform.position = new Vector3(((Input.mousePosition.x - 550) / 30), (Input.mousePosition.y - 262) / 30, -4);
+=======
+        transform.position = new Vector3(((Input.mousePosition.x - 550) / 30), (Input.mousePosition.y - 262) / 30, 0);
+>>>>>>> parent of 13a7f53 (changed name of project folder):My project/Assets/GoToMousePointer.cs
         //rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
 
     }
