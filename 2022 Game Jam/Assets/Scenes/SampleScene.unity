@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD:2022 Game Jam/Assets/Scenes/SampleScene.unity
+<<<<<<< HEAD:2022 Game Jam/Assets/Scenes/SampleScene.unity
 --- !u!1 &3786261
 GameObject:
   m_ObjectHideFlags: 0
@@ -245,6 +246,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+=======
+>>>>>>> parent of 71a6a60 (got a half working mouse movement script):My project/Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of 71a6a60 (got a half working mouse movement script):My project/Assets/Scenes/SampleScene.unity
 --- !u!1 &519420028
